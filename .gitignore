@@ -32,6 +32,7 @@ TAGS
 
 # Stack
 .stack-work/
+stack.yaml.lock
 
 # Hpack
 *.cabal
